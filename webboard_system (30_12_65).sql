@@ -66,15 +66,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `username`, `fname`, `lname`, `email`, `password`, `gender`, `bdate`) VALUES
-(1, 'A', 'B', 'C', 'tinenp.ngaopol@gmail.com', '123', 'female', '2022-12-30'),
-(2, 'Park', 'Pawapon', 'Thammalangka', 'pawaponthammalangka@gmail.com', '1234', 'male', '2006-06-19'),
-(3, 'ABCD', 'ABC', 'ABC', 'dmlkm@klfm.com', '12345', 'male', '2006-06-19'),
-(4, 'ASSSS', 'Pawapon', 'Thammalangka', 'tinenp.ngaopol@gmail.com', '123', 'male', '2006-12-06'),
-(5, 'ABC', 'Pawapon', 'asdasd', 'dmlkm@klfm.com', '123', 'other', '0000-00-00'),
-(6, 'asdasdsdfsdfsdfsd', '', '', '', '12345', 'other', '0000-00-00'),
-(7, 'PAKALOB', 'Pawapon', 'Thammalangka', 'pawaponthammalangka@gmail.com', 'Park1962549', 'male', '2006-12-06'),
-(8, 'jlisjflisjnf', '', '', '', '123', 'other', '0000-00-00'),
-(9, 'klnflikdsafnilsfvgjnisakdjfv', '', '', '', '1234', 'other', '0000-00-00');
+(1, 'ABCD', 'ABC', 'ABC', 'dmlkm@klfm.com', '12345', 'male', '2006-06-19');
 
 --
 -- Indexes for dumped tables
